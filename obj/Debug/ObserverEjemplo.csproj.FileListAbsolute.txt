@@ -1,0 +1,10 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverEjemplo\bin\Debug\ObserverEjemplo.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverEjemplo\bin\Debug\ObserverEjemplo.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverEjemplo\bin\Debug\ObserverEjemplo.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverEjemplo\bin\Debug\Entidades.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverEjemplo\bin\Debug\Entidades.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverEjemplo\obj\Debug\ObserverEjemplo.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverEjemplo\obj\Debug\ObserverEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverEjemplo\obj\Debug\Observer.17CD5A8E.Up2Date
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverEjemplo\obj\Debug\ObserverEjemplo.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverEjemplo\obj\Debug\ObserverEjemplo.pdb
